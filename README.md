@@ -1,6 +1,7 @@
 ## Hello!
 
 Psychology graduate pursuing a career in Data Science.
+Currently enrolled in a Data Science Masters.
 
 
 
